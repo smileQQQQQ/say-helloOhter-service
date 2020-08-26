@@ -4,8 +4,9 @@
 
   	<groupId>com.say.hello</groupId>
   	<artifactId>say-helloOhter-service</artifactId>
-  	<version>0.0.1-SNAPSHOT</version>
+  	<version>0.0.2-SNAPSHOT</version>
   	<packaging>jar</packaging>
+
 
   	<name>say-helloOhter-service</name>
   	<url>http://maven.apache.org</url>
